@@ -12,4 +12,3 @@ As perguntas para elaborar o relatório foram:
 10 - Se for homem, com mais de 50 anos e da região Sudeste, o gasto é maior ou menor que a média de gastos da região?
 
 As questões 5 e 6 não foram respondidas porque a idade mínima do relatório era 18 anos.
- 
